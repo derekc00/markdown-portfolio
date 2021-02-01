@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+I am a student at the University of California, Irvine studuing **computer science**. Currently, I focus on iOS development.  e
