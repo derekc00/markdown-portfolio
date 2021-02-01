@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+Some of my hobbies:
+* Surfing
+* Biking
+* Watching movies
+* Cooking
